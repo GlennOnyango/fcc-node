@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Glenn",
 	"description": "Fcc tutorial on node",
+	"keywords": ["freecodecamp","node"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
+		"@freecodecamp/example":"1.2.31",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
